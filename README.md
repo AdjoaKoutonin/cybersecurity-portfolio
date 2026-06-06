@@ -39,7 +39,7 @@ I value integrity, continuous learning, and the protection of sensitive informat
 - Investigated security events
 
 Repository:
-[soc-log-analysis-splunk-sysmon](link)
+https://github.com/AdjoaKoutonin/splunk-sysmon-soc-lab
 
 ### Wazuh Threat Detection Lab
 **Technologies:** Wazuh, Windows 11, Ubuntu

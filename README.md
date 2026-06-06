@@ -58,6 +58,6 @@ Repository:
 - Python for Security Automation
 
 ## Contact
-LinkedIn: [Your LinkedIn URL]
+LinkedIn: https://www.linkedin.com/in/adjoa-koutonin/
 
-GitHub: https://github.com/AdjoaKoutonin
+GitHub: 

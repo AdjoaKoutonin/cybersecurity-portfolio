@@ -60,4 +60,4 @@ https://github.com/AdjoaKoutonin/splunk-sysmon-soc-lab
 ## Contact
 LinkedIn: https://www.linkedin.com/in/adjoa-koutonin/
 
-GitHub: 
+GitHub: https://github.com/AdjoaKoutonin

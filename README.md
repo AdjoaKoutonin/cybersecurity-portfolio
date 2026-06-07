@@ -29,7 +29,7 @@ I value integrity, continuous learning, and the protection of sensitive informat
 - Git & GitHub
 
 ## Featured Projects
-
+# Project_1
 ### Splunk SOC Home Lab
 **Technologies:** Splunk, Sysmon, Windows 11, Ubuntu, Kali Linux
 
@@ -48,6 +48,28 @@ https://github.com/AdjoaKoutonin/splunk-sysmon-soc-lab
 - Configured Windows Agent
 - Monitored security events
 - Investigated alerts
+
+## Project_3
+
+## Botium Toys Security Audit & Risk Assessment
+
+## Description
+
+Conducted a cybersecurity risk assessment and controls audit for Botium Toys using the NIST Cybersecurity Framework (CSF). Evaluated existing security controls, identified compliance gaps related to PCI DSS, GDPR, and SOC standards, and provided recommendations to improve the organization's security posture.
+
+## Skills Demonstrated
+Risk Assessment
+Security Controls Evaluation
+NIST Cybersecurity Framework (CSF)
+PCI DSS Compliance
+GDPR Compliance
+SOC Controls
+Asset Management
+Security Recommendations
+Cybersecurity Auditing
+GitHub Structure
+
+## Repository:
 
 ## Current Focus
 - SOC Analysis

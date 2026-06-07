@@ -41,13 +41,16 @@ I value integrity, continuous learning, and the protection of sensitive informat
 Repository:
 https://github.com/AdjoaKoutonin/splunk-sysmon-soc-lab
 
-### Wazuh Threat Detection Lab
-**Technologies:** Wazuh, Windows 11, Ubuntu
+## Project_2
+## soc-log-analysis-splunk-sysmon
+## Description
+Built a Security Operations Center (SOC) home lab using Splunk Enterprise, Sysmon, and Windows event logs to collect, analyze, and monitor security events. Developed SPL searches and dashboards to detect failed logins, process creation events, PowerShell activity, and network connections, demonstrating foundational SIEM monitoring and threat detection skills.
 
-- Deployed Wazuh Manager
-- Configured Windows Agent
-- Monitored security events
-- Investigated alerts
+## Skills: 
+Splunk, Sysmon, SIEM, Log Analysis, Threat Detection, Windows Event Logs, Security Monitoring, Incident Investigation, SPL Queries, SOC Operations.
+
+## Repository:
+https://github.com/AdjoaKoutonin/soc-log-analysis-splunk-sysmon
 
 ## Project_3
 

@@ -8,6 +8,7 @@ My strengths include security monitoring, log analysis, problem-solving, and pro
 I value integrity, continuous learning, and the protection of sensitive information. My goal is to contribute to secure and resilient systems while growing as a cybersecurity professional and supporting organizations in identifying, analyzing, and responding to emerging threats.
 
 ## Certifications
+- Google Cybersecurity Professional Certificate
 - CompTIA A+
 - Microsoft Certified: Azure Administrator Associate
 - Google Data Analytics Certificate

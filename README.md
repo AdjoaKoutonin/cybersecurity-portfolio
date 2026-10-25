@@ -3,9 +3,9 @@
 ## About Me
 I am Adjoa Koutonin, a Cyber Operations student and aspiring SOC Analyst with a strong interest in cybersecurity, threat detection, and security operations. I am passionate about protecting organizations from cyber threats through continuous learning, hands-on projects, and practical experience.
 
-My strengths include security monitoring, log analysis, problem-solving, and programming with Python and SQL. Through hands-on experience with tools such as Splunk, Wazuh, Sysmon, Wireshark, Windows 11, Ubuntu, and Kali Linux, I have developed skills in threat detection, network monitoring, incident investigation, and security event analysis.
+My strengths include security monitoring, log analysis, problem-solving, and Python and SQL programming. Through hands-on experience with tools such as Splunk, Wazuh, Sysmon, Wireshark, Windows 11, Ubuntu, and Kali Linux, I have developed skills in threat detection, network monitoring, incident investigation, and security event analysis.
 
-I value integrity, continuous learning, and the protection of sensitive information. My goal is to contribute to secure and resilient systems while growing as a cybersecurity professional and supporting organizations in identifying, analyzing, and responding to emerging threats.
+I value integrity, continuous learning, and the protection of sensitive information. My goal is to help build secure, resilient systems while growing as a cybersecurity professional and supporting organizations in identifying, analyzing, and responding to emerging threats.
 
 ## Certifications
 - Google Cybersecurity Professional Certificate
@@ -30,38 +30,69 @@ I value integrity, continuous learning, and the protection of sensitive informat
 - Git & GitHub
 
 ## Featured Projects
-# Project_1
-### Splunk SOC Home Lab
-**Technologies:** Splunk, Sysmon, Windows 11, Ubuntu, Kali Linux
+## Project 1: Splunk SOC Home Lab
 
-- Configured Splunk Enterprise SIEM
-- Collected Sysmon telemetry
-- Created detection dashboards
-- Investigated security events
+# Project Description
 
-Repository:
+Built a virtual Security Operations Center (SOC) home lab using Splunk Enterprise, Sysmon, Windows 11, Ubuntu, and Kali Linux to simulate real-world cybersecurity operations. Configured centralized log collection, developed security monitoring dashboards, and investigated suspicious activities to strengthen hands-on threat detection and incident analysis skills.
+
+# Technologies Used
+
+Splunk Enterprise | Sysmon | Windows 11 | Ubuntu Linux | Kali Linux | VirtualBox | Splunk Universal Forwarder | SPL
+
+# Key Accomplishments
+
+Installed and configured Splunk Enterprise SIEM on Ubuntu Linux.
+
+Integrated Sysmon and Splunk Universal Forwarder for Windows endpoint log collection.
+
+Developed dashboards for failed login attempts, PowerShell activity, network connections, and process execution.
+
+Analyzed Windows Security Event Logs and Sysmon telemetry to investigate suspicious activities.
+
+Simulated security events in a virtual lab environment.
+
+Skills Demonstrated
+
+SIEM Configuration and Monitoring
+
+Security Log Analysis
+
+Threat Detection and Investigation
+
+Windows Event Log and Sysmon Analysis
+
+Splunk Search Processing Language (SPL)
+
+Security Dashboard Development
+
+Endpoint Monitoring
+
+Windows and Linux Administration
+
+# Repository:
 https://github.com/AdjoaKoutonin/splunk-sysmon-soc-lab
 
 ## Project_2
 ## soc-log-analysis-splunk-sysmon
-## Description
+# Description
 Built a Security Operations Center (SOC) home lab using Splunk Enterprise, Sysmon, and Windows event logs to collect, analyze, and monitor security events. Developed SPL searches and dashboards to detect failed logins, process creation events, PowerShell activity, and network connections, demonstrating foundational SIEM monitoring and threat detection skills.
 
-## Skills: 
+# Skills: 
 Splunk, Sysmon, SIEM, Log Analysis, Threat Detection, Windows Event Logs, Security Monitoring, Incident Investigation, SPL Queries, SOC Operations.
 
-## Repository:
+# Repository:
 https://github.com/AdjoaKoutonin/soc-log-analysis-splunk-sysmon
 
 ## Project_3
 
-## Botium Toys Security Audit & Risk Assessment
+# Botium Toys Security Audit & Risk Assessment
 
-## Description
+# Description
 
 Conducted a cybersecurity risk assessment and controls audit for Botium Toys using the NIST Cybersecurity Framework (CSF). Evaluated existing security controls, identified compliance gaps related to PCI DSS, GDPR, and SOC standards, and provided recommendations to improve the organization's security posture.
 
-## Skills Demonstrated
+# Skills Demonstrated
 Risk Assessment
 Security Controls Evaluation
 NIST Cybersecurity Framework (CSF)
@@ -73,16 +104,16 @@ Security Recommendations
 Cybersecurity Auditing
 GitHub Structure
 
-## Repository:
+# Repository:
 https://github.com/AdjoaKoutonin/botium-toys-security-audit
 
 ## Project_4
 ## File Integrity Verification & Malware Analysis | PowerShell, VirusTotal, Windows
-## Description
+# Description
 
 Conducted hands-on file integrity verification using PowerShell and MD5/SHA256 hashing. Demonstrated how file modifications affect cryptographic hashes and investigated a suspicious executable using VirusTotal. Analyzed antivirus detection results and Windows registry activity to identify potential indicators of compromise and recommend defensive monitoring techniques.
 
-## Skills Demonstrated
+# Skills Demonstrated
 
 File Integrity Verification
 
@@ -101,18 +132,26 @@ Windows Registry Analysis
 Malware Behavioral Analysis
 
 Security Monitoring & Threat Detection
+Cybersecurity Investigation & Technical Documentation
 
-## Repository:
+# Repository:
 https://github.com/AdjoaKoutonin/file-integrity-malware-analysis
 
-Cybersecurity Investigation & Technical Documentation
+
 ## Current Focus
-- SOC Analysis
-- Threat Hunting
-- Security Monitoring
-- Incident Response
-- Security+
-- Python for Security Automation
+Security Operations Center (SOC) Analysis
+
+Threat Detection and Security Monitoring
+
+Incident Response and Investigation
+
+Threat Hunting and Log Analysis
+
+SIEM Technologies (Splunk and Wazuh)
+
+Python for Security Automation
+
+CompTIA Security+ Certification Preparation
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/adjoa-koutonin/

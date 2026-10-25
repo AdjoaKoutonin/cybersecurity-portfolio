@@ -76,6 +76,36 @@ GitHub Structure
 ## Repository:
 https://github.com/AdjoaKoutonin/botium-toys-security-audit
 
+## Project_4
+## File Integrity Verification & Malware Analysis | PowerShell, VirusTotal, Windows
+## Description
+
+Conducted hands-on file integrity verification using PowerShell and MD5/SHA256 hashing. Demonstrated how file modifications affect cryptographic hashes and investigated a suspicious executable using VirusTotal. Analyzed antivirus detection results and Windows registry activity to identify potential indicators of compromise and recommend defensive monitoring techniques.
+
+## Skills Demonstrated
+
+File Integrity Verification
+
+Cryptographic Hashing (MD5 & SHA256)
+
+Windows PowerShell
+
+Malware Analysis & Threat Intelligence
+
+VirusTotal Analysis
+
+Indicators of Compromise (IOC) Identification
+
+Windows Registry Analysis
+
+Malware Behavioral Analysis
+
+Security Monitoring & Threat Detection
+
+## Repository:
+
+
+Cybersecurity Investigation & Technical Documentation
 ## Current Focus
 - SOC Analysis
 - Threat Hunting
